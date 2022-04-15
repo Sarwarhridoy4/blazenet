@@ -1,0 +1,13 @@
+.footer{
+    height: 50vh;
+    margin-top: 10vh;
+}
+.card img{
+    height: 250px;
+    width: 250px;
+}
+
+.card-color{
+    background-color: antiquewhite;
+    color: rgb(9, 94, 66);
+}

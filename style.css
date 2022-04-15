@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background: url("img/gradienta-LeG68PrXA6Y-unsplash.jpg") no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#preloader{
+    background: #000 url("img/Picture1.gif") no-repeat center center;
+    background-size: 75%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+.navbar-brand img{
+    width: 80px;
+}
+.navbar-brand{
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-item{
+    font-size: x-large;
+    color: #ffffff;
+}
+
+.custom-img{
+    height: 450px;
+    width: 100%;
+}
+
+.services h2{
+    margin-left: 45%;
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
+    font-size: 800;
+    font-weight: bolder;
+    margin-top: 35px;
+    margin-bottom: 35px;
+
+}
+.service-item1{
+    height: 75px;
+    width: auto;
+    background: rgba(9, 194, 34, 0.692);
+    margin-top: 10px;
+    border-radius: 15px;
+
+}
+
+.service-item2{
+    height: 75px;
+    width: auto;
+    background: rgba(36, 218, 193, 0.733);
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.service-item3{
+    height: 75px;
+    width: auto;
+    background: rgba(226, 157, 7, 0.712);
+    margin-top: 10px;
+    border-radius: 15px;
+}
+h3{
+    padding-top: 20px;
+}
+
+.faq-sec{
+    background: rgba(2, 1, 1, 0.185);
+    margin-top: 35px;
+    border-radius: 20px;
+}
+.faq-sec h3{
+    padding: 10px;
+}
+.btn-size{
+    width: 100%;
+}
+.margin{
+    margin-top: 30px;
+}
+.footer{
+    height: 25vh;
+    width: auto;
+    background: rgba(5, 94, 97, 0.932);
+}
