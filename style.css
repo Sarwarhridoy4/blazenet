@@ -3,8 +3,10 @@
     font-family: 'Oswald', sans-serif;
 }
 body{
-    background: url("img/gradienta-LeG68PrXA6Y-unsplash.jpg") no-repeat center center;
-    background-size: cover;
+    background-image: url("img/gradienta-LeG68PrXA6Y-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
     background-attachment: fixed;
 }
 
